@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hugobert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.meltedmoon.de
+  * I am hugobert (https://keybase.io/hugobert) on keybase.
+  * I have a public key ASDvAj2iO8fzIe7qgeeMJfZ18V5nOUwdNFTzizTFzbvuSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ef023da23bc7f321eeea81e78c25f675f15e67394c1d3454f38b34c5cdbbee4a0a",
+      "host": "keybase.io",
+      "kid": "0120ef023da23bc7f321eeea81e78c25f675f15e67394c1d3454f38b34c5cdbbee4a0a",
+      "uid": "21c6bd43acbaf27b982bf768be3c0619",
+      "username": "hugobert"
+    },
+    "merkle_root": {
+      "ctime": 1547899823,
+      "hash": "b155a0ab91cf7abfcb18450a1f656ed2a9d13a0615d60e2f85b1f19b24627ccca58ec600f5a126bb5e6a1cfa0a5f4f6b8018a99540b41a102add07e68686a0b9",
+      "hash_meta": "550cef111f96cdfbc0a94c931246571112967aac786f16bef4e74f27537a946d",
+      "seqno": 4493199
+    },
+    "service": {
+      "entropy": "AKTxNN4Bz59FjmWdaVdnAEpH",
+      "hostname": "www.meltedmoon.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.1"
+  },
+  "ctime": 1547899661,
+  "expire_in": 504576000,
+  "prev": "28eb566b50029dc8a63b5ad4729456ecad589701cf4c15153a382ba38d9d0b77",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7wI9ojvH8yHu6oHnjCX2dfFeZzlMHTRU84s0xc277koKp3BheWxvYWTESpcCD8QgKOtWa1ACncimO1rUcpRW7K1YlwHPTBUVOjgro42dC3fEIHkbmsr6vHI+TZAimdpYQKF+mSJj5Bu5SOYa3xf+Fpw4AgHCo3NpZ8RAtP4DsREzvkjVt/qXsEp4bxComPxMRfhUEVrFQ4b7dSaD0DexYFvU19R79V5TOSNaBU0xStgV3seFyHhGYyY7DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILxmkoULZtKZo6kszt9Xsqo75M72oGwC9mO+Yu9UuWAio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hugobert
+
+==================================================================
